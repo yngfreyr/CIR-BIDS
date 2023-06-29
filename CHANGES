@@ -7,16 +7,17 @@ Revision history for example "Project X" dataset
 - Added README to /derivatives/warpimg/
 - Fixed invalid channel names in channels.tsv files
 
-0.1.0 2022-10-01
+0.1.0 YYYY-MM-DD
 - Update "README"
 
-0.0.3 2022-09-24
+0.0.3 2 YYYY-MM-DD
 - Fixed errors in sidecarfiles
 - Update "README"
 
-0.0.2 2022-09-11
+0.0.2 YYYY-MM-DD
 - Updated "events.tsv" files and added "events.json" files.
 - Update "README" with trigger exceptions.
 
-0.0.1 2022-09-01
+0.0.1 YYYY-MM-DD
+- Update "README"
 - Adding missing pieces of metadata and BIDS textfiles
