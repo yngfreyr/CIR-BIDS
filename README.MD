@@ -97,6 +97,8 @@ A summary of the equipment and environment setup for the
 experiment. For example, was the experiment performed in a shielded room
 with the subject seated in a fixed position.
 
+MEG recordings were done in a two-layer magnetically shielded room (MSR) (Vacuumschmelze GmbH) using Neuromag TRIUX 306-channel whole-head system with 102 magnetometers and 102 pairs of planar gradiometers.
+
 ### Initial setup
 
 A summary of what setup was performed when a subject arrived.
@@ -132,6 +134,10 @@ https://bids-specification.readthedocs.io/en/stable/03-modality-agnostic-files.h
 This should include any additional information regarding the
 the geographical location and facility that cannot be included
 in the relevant json files.
+
+MEG data were collected at the National Facility for Magnetoencephalography (NatMEG) at Karolinska Institutet, Nobels väg 9, 171 77, Stockholm, Sweden.
+
+MRI data were collected at MR-Centrum, Karolinska Institutet, Stockholm, Sweden.
 
 ### Missing data
 
