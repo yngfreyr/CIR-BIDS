@@ -20,11 +20,26 @@ More info here: https://neurostars.org/t/where-in-a-bids-dataset-should-i-put-no
 
 - [ ] Data user agreement
 
-If the dataset requires a data user agreement, link to the relevant information.
+*Dataset title* is available through EBRAINS (www.ebrains.eu) under the terms of EBRAINS Data Usage Agreement for human data (https://strapi-prod.sos-ch-dk-2.exo.io/EBRAINS_Data_Use_Agreement_90858e7836_ef3ee29d50.pdf) and EBRAINS General terms of use (https://strapi-prod.sos-ch-dk-2.exo.io/EBRAINS_General_Terms_of_use_e457353c1a_d2122f84c2.pdf).
+
+In order to use potentially identifiable human Data provided by EBRAINS services, you agree to the following terms:
+* You are data controller for any Pseudonymised Data provided by EBRAINS services and will comply with the provisions of the GDPR.
+* You will preserve, at all times, the privacy of these Data. In particular, you agree not to attempt to compromise or otherwise infringe the privacy of information on Research Participants.
+* You will not attempt to re-identify the Research Participants.
+* You will protect the privacy of Research Participants in any research papers or publications that they prepare by taking all reasonable care to limit the possibility of identification.
+* You will not attempt to transfer these Data, in whole or part, to anyone beyond your institution.
+* You will liaise with the Data Provider with regard to any incidental findings.
+* You will destroy/discard the Data held, once it is no longer used for the Project, unless obliged to retain the data for archival purposes in conformity with audit or legal requirements.
+* You will distribute a copy of this agreement to Data Processors of the Data. It is your responsibility to ensure that Data Processors comply with the terms of this agreement.
+* You will report any unauthorised access to Data to the EBRAINS Data Protection Officer (data.protection@ebrains.eu) as soon as possible or within 72 hours in compliance with the GDPR.
+* Failure to comply to this agreement will result in the termination of access to these Data.
 
 - [ ] Contact person
 
 Indicate the name and contact details (email and ORCID) of the person responsible for additional information.
+
+* Name, email: , ORCID:  
+
 
 - [ ] Practical information to access the data
 
@@ -33,6 +48,9 @@ how to download the data make sure to include it.
 For example, if the dataset was curated using datalad,
 make sure to include the relevant section from the datalad handbook:
 http://handbook.datalad.org/en/latest/basics/101-180-FAQ.html#how-can-i-help-others-get-started-with-a-shared-dataset
+
+Access to the dataset requires acceptance of the registration with EBRAINS upon which it is possible to request access to the dataset.
+
 
 ## Overview
 
