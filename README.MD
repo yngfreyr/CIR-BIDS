@@ -117,6 +117,8 @@ with the subject seated in a fixed position.
 
 MEG recordings were done in a two-layer magnetically shielded room (MSR) (Vacuumschmelze GmbH) using Neuromag TRIUX 306-channel whole-head system with 102 magnetometers and 102 pairs of planar gradiometers.
 
+The recordings were sampled at .... Hz with an online .. Hz high-pass filter and ... Hz low-pass filter. All MEG recordings were done in the upright/supine position.
+
 ### Initial setup
 
 A summary of what setup was performed when a subject arrived.
